@@ -10,16 +10,16 @@
 
 ---
 
-## 🔭 Currently Working On
+### 🔭 Currently Working On
 - Strengthening my expertise in **Machine Learning**, **Computer Vision**, and **NLP**
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - **Cloud AI** — AWS and Microsoft Azure AI solutions
 - **Docker** for containerised AI application deployment
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 📄 Publication
+### 📄 Publication
 
 **Faris, S. B. M., Pang, Y. H., Ooi, S. Y., Khoh, W. H., & Lim, A. F. C. (2025).**  
 *"Attention-Enhanced Minimal Gated Units for Anomaly Detection in 5G Networks."*  
@@ -37,7 +37,7 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 
 ---
 
-## 🧠 Skills & Tools
+### 🧠 Skills & Tools
 
 | Category | Tools & Techniques |
 |---|---|
@@ -51,7 +51,7 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 
 ---
 
-## 🏅 Achievements & Awards
+### 🏅 Achievements & Awards
 
 - 🥉 **Bronze Medal** — Melaka State Innovation Day, 2025
 
