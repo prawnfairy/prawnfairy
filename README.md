@@ -58,7 +58,7 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 ---
 
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-prawnfairy-181717?logo=github)](https://github.com/prawnfairy)  
 📧 **Email:** [sofiabtrsyia@gmail.com](mailto:sofiabtrsyia@gmail.com)
