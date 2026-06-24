@@ -51,6 +51,12 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prawnfairy&layout=compact&theme=calm_pink&hide_border=true)
+
+---
+
 ### 🏅 Achievements & Awards
 
 - 🥉 **Bronze Medal** — Melaka State Innovation Day, 2025
