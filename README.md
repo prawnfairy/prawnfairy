@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sofia Batrisyia**
+# 👋 Halo, I'm **Sofia Batrisyia**
 
 > Focused on Machine Learning and building intelligent systems for real-world prediction and detection challenges.
 
