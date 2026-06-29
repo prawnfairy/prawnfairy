@@ -19,7 +19,7 @@
 
 <div align="center">
 
---- <img src="./assets/cats.gif" width="100" alt="Pinterest GIF"> ---
+<hr style="display:inline-block; width:30px;"/> <img src="./assets/cats.gif" width="100" height="200" alt="Pinterest GIF"> <hr style="display:inline-block; width:30px;"/>
 
 </div>
 
