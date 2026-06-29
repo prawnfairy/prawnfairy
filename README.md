@@ -1,25 +1,25 @@
-# 👋 Halo, I'm **Sofia Batrisyia**
+# 𐙚 Halo, I'm **Sofia Batrisyia**
 
 > Focused on Machine Learning and building intelligent systems for real-world prediction and detection challenges.
 
-🎓 **Bachelor of Computer Science (Hons.) in Artificial Intelligence**
-🏅 **MARA Young Talent Programme (YTP) Scholar**  
-🔬 **Research Assistant & Software Developer Intern** at ZTE-MMU Training Center — focused on 5G, IoT, and AI technology  
-📄 **Published researcher** in AI-driven anomaly detection for 5G Networks  
-📍 Based in Malaysia  
+ʚɞ **Bachelor of Computer Science (Hons.) in Artificial Intelligence**
+ʚɞ **MARA Young Talent Programme (YTP) Scholar**  
+ʚɞ **Research Assistant & Software Developer Intern** at ZTE-MMU Training Center — focused on 5G, IoT, and AI technology  
+ʚɞ **Published researcher** in AI-driven anomaly detection for 5G Networks  
+ʚɞ Based in Malaysia  
 
----
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=12666442696313778" height="267" width="345" frameborder="0" scrolling="no" ></iframe>
 
-### 🔭 Currently Working On
-- Strengthening my expertise in **Machine Learning**, **Computer Vision**, and **NLP**
+### ★ Currently Working On
+- Strengthening my expertise in **Computer Vision**, and **NLP**
 
-### 🌱 Currently Learning
+### ★ Currently Learning
 - **Cloud AI** — AWS and Microsoft Azure AI solutions
 - **Docker** for containerised AI application deployment
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -29,7 +29,7 @@
 
 ---
 
-### 📄 Publication
+### Publication
 
 **Faris, S. B. M., Pang, Y. H., Ooi, S. Y., Khoh, W. H., & Lim, A. F. C. (2025).**  
 *"Attention-Enhanced Minimal Gated Units for Anomaly Detection in 5G Networks."*  
@@ -37,7 +37,7 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 
 ---
 
-### 🧠 Skills & Tools
+### Skills & Tools
 
 | Category | Tools & Techniques |
 |---|---|
@@ -51,24 +51,24 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prawnfairy&layout=compact&theme=calm_pink&hide_border=true)
 
 ---
 
-### 🏅 Achievements & Awards
+### Achievements & Awards
 
-- 🥉 **Bronze Medal** — Melaka State Innovation Day, 2025
+- **Bronze Medal** — Melaka State Innovation Day, 2025
 
 ---
 
 
-### 📫 Let's Connect
+### Let's Connect 𓆝 𓆟 𓆞
 
 [![GitHub](https://img.shields.io/badge/GitHub-prawnfairy-181717?logo=github)](https://github.com/prawnfairy)  
-📧 **Email:** [sofiabtrsyia@gmail.com](mailto:sofiabtrsyia@gmail.com)
+**Email:** [sofiabtrsyia@gmail.com](mailto:sofiabtrsyia@gmail.com)
 
 ---
 
-> 💬 *"Still learning, still building, still curious about what AI can do next."*
+> *"Still learning, still building, still curious about what AI can do next."*
