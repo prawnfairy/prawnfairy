@@ -8,7 +8,7 @@
 ʚɞ **Published researcher** in AI-driven anomaly detection for 5G Networks  
 ʚɞ Based in Malaysia  
 
-[![Pinterest GIF](./assets/duck.gif)](https://pin.it/3KJTUHZKv)
+<img src="./assets/duck.gif" width="200" height="200" alt="Pinterest GIF">
 
 ### ★ Currently Working On
 - Strengthening my expertise in **Computer Vision**, and **NLP**
