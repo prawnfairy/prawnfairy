@@ -19,13 +19,7 @@
 
 <div align="center">
 
----
-
-<a href="https://pin.it/5Ds20egG3">
-  <img src="./assets/cats.gif" width="200" alt="Pinterest GIF">
-</a>
-
----
+--- <img src="./assets/cats.gif" width="100" alt="Pinterest GIF"> ---
 
 </div>
 
