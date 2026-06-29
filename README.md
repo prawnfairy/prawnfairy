@@ -8,7 +8,7 @@
 ʚɞ **Published researcher** in AI-driven anomaly detection for 5G Networks  
 ʚɞ Based in Malaysia  
 
-[![Pinterest GIF](./assets/download.gif)](https://pin.it/7MLYXn4Na)
+[![Pinterest GIF](./assets/duck.gif)](https://pin.it/3KJTUHZKv)
 
 ### ★ Currently Working On
 - Strengthening my expertise in **Computer Vision**, and **NLP**
@@ -17,7 +17,7 @@
 - **Cloud AI** — AWS and Microsoft Azure AI solutions
 - **Docker** for containerised AI application deployment
 
----
+[![Pinterest GIF](./assets/cats.gif)](https://pin.it/5Ds20egG3)
 
 ### Featured Projects
 
@@ -27,7 +27,7 @@
 | [**MediStock**](https://github.com/prawnfairy/MediStock) | Pharmacy inventory and stock management system | PHP, MySQL |
 | [**Science Lab Assets Management System**](https://github.com/prawnfairy/Science-Lab-Assets-Management-System) | Asset tracking and management system for school science laboratories | PHP, MySQL |
 
----
+[![Pinterest GIF](./assets/cats.gif)](https://pin.it/5Ds20egG3)
 
 ### Publication
 
@@ -35,7 +35,7 @@
 *"Attention-Enhanced Minimal Gated Units for Anomaly Detection in 5G Networks."*  
 Paper presentation at **The 6th International Conference on Computer, Information Technology and Intelligent Computing (CITIC 2026)** 🎓
 
----
+[![Pinterest GIF](./assets/cats.gif)](https://pin.it/5Ds20egG3)
 
 ### Skills & Tools
 
@@ -49,19 +49,19 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 | **Workflow** | VS Code, GitHub, technical documentation |
 | **Research Interests** | Computer vision, NLP, AI |
 
----
+[![Pinterest GIF](./assets/cats.gif)](https://pin.it/5Ds20egG3)
 
 ### GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prawnfairy&layout=compact&theme=calm_pink&hide_border=true)
 
----
+[![Pinterest GIF](./assets/cats.gif)](https://pin.it/5Ds20egG3)
 
 ### Achievements & Awards
 
 - **Bronze Medal** — Melaka State Innovation Day, 2025
 
----
+[![Pinterest GIF](./assets/cats.gif)](https://pin.it/5Ds20egG3)
 
 
 ### Let's Connect 𓆝 𓆟 𓆞
@@ -69,6 +69,6 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 [![GitHub](https://img.shields.io/badge/GitHub-prawnfairy-181717?logo=github)](https://github.com/prawnfairy)  
 **Email:** [sofiabtrsyia@gmail.com](mailto:sofiabtrsyia@gmail.com)
 
----
+[![Pinterest GIF](./assets/psyduck.gif)](https://pin.it/521JPHG79)
 
 > *"Still learning, still building, still curious about what AI can do next."*
