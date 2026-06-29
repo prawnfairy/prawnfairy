@@ -17,7 +17,17 @@
 - **Cloud AI** — AWS and Microsoft Azure AI solutions
 - **Docker** for containerised AI application deployment
 
---- <img src="./assets/cats.gif" width="200" height="100" position="center" alt="Pinterest GIF"> ---
+<div align="center">
+
+---
+
+<a href="https://pin.it/5Ds20egG3">
+  <img src="./assets/cats.gif" width="200" alt="Pinterest GIF">
+</a>
+
+---
+
+</div>
 
 ### Featured Projects
 
