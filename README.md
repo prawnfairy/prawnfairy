@@ -69,7 +69,9 @@ Paper presentation at **The 6th International Conference on Computer, Informatio
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prawnfairy&layout=compact&theme=calm_pink&hide_border=true)
+<a href="https://github.com/prawnfairy">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prawnfairy&langs_count=8&layout=compact&theme=dark&border_radius=5&cache_seconds=86400" alt="Top Languages" width="45%"/>
+</a>
 
 <br><div align="center">
 
